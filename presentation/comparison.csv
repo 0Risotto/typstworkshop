@@ -1,0 +1,8 @@
+Feature,Typst,LaTeX,Word
+Ease of Use,Simple syntax, instant preview,Complex syntax, steep learning curve,Very easy GUI but limited control
+Setup,No heavy installs, works online,Requires full toolchain setup,Already installed but lacks flexibility
+Design Control,Modern templates, live styling,Powerful but slow and code-heavy,Manual formatting only
+Speed,Real-time rendering and quick edits,Slow compile cycle,Fast but not scalable for large docs
+Diversity,Ideal for research, slides, reports, automation,Best for traditional academia,Best for casual or office documents
+Verdict,Typst combines LaTeX’s power with Word’s simplicity,,,
+

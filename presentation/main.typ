@@ -60,14 +60,14 @@ To get started open up Visual Studio Code on your device and download
 ]
 
 == Syntax
-Before getting our hands dirty with Typst, we have to learn it's syntax.
+ Before writing a document with Typst, we have to learn it's syntax.
 
  / Documentation:  https://typst.app/docs/reference/syntax/
 
- #table( columns: 3,[Mode], [Syntax], [Example],
-  [Code], [Prefix with `#`], [`Number: #(1 + 2)`],
-  [Math], [Surround with `$...$`], [`$-x$ is the opposite of $x$`],
-  [Markup], [Surround with `[..]`], [`let name = [*Typst!*]`])
+ #table( columns: 4,[Mode], [Syntax], [Example],[Result],
+  [Code], [Prefix with ```typst #```], [```Typst Number: #(1 + 2)```],[Number: #(1+2)],
+  [Math], [Surround with ```typst  $...$```], [`$-x$ is the opposite of $x$`],[$-x$ is the opposite of $x$],
+  [Markup], [Surround with ```typst [..]```], [`let name = [*Typst!*]`])
 
 
 = Workshop Resources
@@ -91,6 +91,8 @@ Before getting our hands dirty with Typst, we have to learn it's syntax.
   Get started online, create projects, and see examples in your browser.
 
 == Templates to use
-https://typst.app/universe/package/basic-resume/
-https://typst.app/universe/package/diatypst/
+- *Basic-Resume*
+  https://typst.app/universe/package/basic-resume/
+- *Diatypst (presentation)*
+  https://typst.app/universe/package/diatypst/
 

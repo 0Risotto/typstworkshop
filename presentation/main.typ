@@ -7,7 +7,7 @@
 )
 #set heading(numbering:"1.")
 = Overview 
-== What is typst
+== What is Typst
 / Typst:  
         A markdown new markup-based typesetting 
         system that is designed to be as powerful as LaTeX
